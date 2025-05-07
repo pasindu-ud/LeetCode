@@ -1,4 +1,5 @@
 # Approach without converting the integer to a string
+# Time complexity = O(log(n))
 # Space complexity = O(1)
 
 class Solution:
